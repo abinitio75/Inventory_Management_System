@@ -1,2 +1,2 @@
 # Inventory_Management_System
-Part inventory management system
+Practice project for an inventory management system for in-house and outsourced parts.
